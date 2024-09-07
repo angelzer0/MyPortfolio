@@ -1,0 +1,21 @@
+
+.navbar-brand, h1{
+    color: rgb(75, 83, 185); 
+  
+}
+
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+  
+
+.social-icons a:hover .fa-linkedin {
+    color: #0077b5;
+
+}
+
+.social-icons a:hover .fa-github {
+    color: rgba(219, 48, 5, 0.842);
+}
+
